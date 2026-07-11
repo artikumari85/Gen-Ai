@@ -95,7 +95,3 @@ Never commit your actual `.env` file or credentials.
 | `Frontend` | `npm run dev` | Start Vite development server |
 | `Frontend` | `npm run build` | Create a production build |
 | `Frontend` | `npm run lint` | Run Oxlint |
-
-## License
-
-This project is currently provided without a license. Add one before distributing or accepting external contributions.
